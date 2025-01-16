@@ -54,3 +54,14 @@ DNS Settings Setup
 From VM1, pinging VM2 Private IP address to show the DNS is set to VM2's private IP. VM1's private IP is 10.0.0.4, VM2's is 10.0.0.5. As you can see after ipconfig /all, the hostname is VM1 but DNS is 10.0.0.5
 </p>
 <br />
+
+<p>
+</p>Step 3.
+<img src="https://i.imgur.com/E1RaPGH.png" height="45%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tjKBaHQ.png" height="45%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Mjlqt5v.png" height="45%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Enabling Active Directory Domain Services, Installing, Then Depolying
+</p>
+<br />
